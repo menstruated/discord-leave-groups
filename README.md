@@ -8,7 +8,7 @@ Someone going around with a script to add you to groups with other users when yo
 #Resulting in this:
 ![Example](https://i.imgur.com/dLmPIj2.png)
 
-#How to install
+# How to install
 ----------
 
 **Python 3.5.3+ is needed for this**
@@ -24,6 +24,6 @@ Someone going around with a script to add you to groups with other users when yo
     Windows: py -3 -m pip --upgrade discord.py
   
 
-#Usage
+# Usage
 
 Select a prefix and run the command displayed within the interpreter

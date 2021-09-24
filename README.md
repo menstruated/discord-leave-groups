@@ -27,3 +27,8 @@ Someone going around with a script to add you to groups with other users when yo
 # Usage
 
 Select a prefix and run the command displayed within the interpreter
+
+**Example**
+If the prefix was +
+
+You would type __+leave__ in a discord group dm

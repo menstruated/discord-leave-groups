@@ -32,4 +32,4 @@ Select a prefix and run the command displayed within the interpreter
 
     # If the prefix was +
     
-    # You would type _+leave_ in a discord group dm
+    # You would type +leave in a discord group dm
